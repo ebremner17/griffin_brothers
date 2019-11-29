@@ -12,6 +12,14 @@
       "type": "vcs",
       "url": "https://github.com/lullabot/entity_browser_block_layout.git",
       "no-api": true
+    },
+    "ebremner17/griffin_brothers_theme": {
+      "type": "vcs",
+      "url": "https://github.com/ebremner17/griffin_brothers_theme.git"
+    },
+    "ebremner17/gb_site_controller": {
+      "type": "vcs",
+      "url": "https://github.com/ebremner17/gb_site_controller.git"
     }
   },
   "conflict": {
@@ -51,6 +59,8 @@
     "drupal/twig_field_value": "1.2",
     "drupal/user_registrationpassword": "1.0-alpha3",
     "drupal/video_embed_field": "2.2",
+    "ebremner17/griffin_brothers_theme": "dev-8.x-1.x",
+    "ebremner17/gb_site_controller": "dev-8.x-1.x",
     "lullabot/entity_browser_block_layout": "master"
   },
   "extra": {
