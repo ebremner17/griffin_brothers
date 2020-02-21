@@ -41,5 +41,4 @@ install:
   - gb_site_controller
 themes:
   - griffin_brothers_theme
-  - bartik
-  - seven
+  - claro
