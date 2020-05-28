@@ -45,7 +45,7 @@
     "composer/installers": "^1.7",
     "cweagans/composer-patches": "1.6.3",
     "oomphinc/composer-installers-extender": "v1.1.2",
-    "drupal/core": "8.8.2",
+    "drupal/core": "8.8.6",
     "drupal/devel": "2.1",
     "drupal/cacheflush": "1.0-beta3",
     "drupal/config_update": "1.6",
