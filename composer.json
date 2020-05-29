@@ -47,7 +47,7 @@
     "drupal/cacheflush": "1.0-beta3",
     "drupal/config_update": "1.6",
     "drupal/core": "8.8.6",
-    "drupal/crop": "2.0-rc1",
+    "drupal/crop": "2.x-dev",
     "drupal/devel": "2.1",
     "drupal/eck": "1.0-alpha5",
     "drupal/entity_browser": "2.2",
