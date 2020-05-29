@@ -17,6 +17,10 @@
       "type": "vcs",
       "url": "https://github.com/ebremner17/griffin_brothers_theme.git"
     },
+    "ebremner17/gb_media": {
+      "type": "vcs",
+      "url": "https://github.com/ebremner17/gb_media.git"
+    },
     "ebremner17/gb_cbl_copy_text": {
       "type": "vcs",
       "url": "https://github.com/ebremner17/gb_cbl_copy_text.git"
@@ -66,6 +70,7 @@
     "drupal/user_registrationpassword": "1.0-alpha3",
     "drupal/video_embed_field": "2.2",
     "ebremner17/gb_cbl_copy_text": "dev-8.x-1.x",
+    "ebremner17/gb_media": "dev-8.x-1.x",
     "ebremner17/gb_site_controller": "dev-8.x-1.x",
     "ebremner17/gb_web_page": "dev-8.x-1.x",
     "ebremner17/griffin_brothers_theme": "dev-8.x-1.x",
