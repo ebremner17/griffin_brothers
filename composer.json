@@ -25,6 +25,10 @@
       "type": "vcs",
       "url": "https://github.com/ebremner17/gb_cbl_copy_text.git"
     },
+    "ebremner17/gb_cbl_contact_form": {
+      "type": "vcs",
+      "url": "https://github.com/ebremner17/gb_cbl_contact_form.git"
+    },
     "ebremner17/gb_site_controller": {
       "type": "vcs",
       "url": "https://github.com/ebremner17/gb_site_controller.git"
@@ -74,6 +78,7 @@
     "drupal/video_embed_spotify": "1.4",
     "drupal/we_megamenu": "^1.9",
     "ebremner17/gb_cbl_copy_text": "dev-8.x-1.x",
+    "ebremner17/gb_cbl_contact_form": "dev-8.x-1.x",
     "ebremner17/gb_media": "dev-8.x-1.x",
     "ebremner17/gb_site_controller": "dev-8.x-1.x",
     "ebremner17/gb_web_page": "dev-8.x-1.x",
